@@ -1,23 +1,22 @@
 <!--## Hi there 👋-->
 
-<h1 align="center">Hey, I'm Madhoolika 🍛🤖</h1>
-<h3 align="center">I teach computers that boiled egg white is different from a full egg.</h3>
+<h1 align="center">✨ Hey, This is Madhoolika ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Applied+AI+Engineer;Founder+of+BiteRight;Learning+to+Learn;Occasionally+Ships+Working+Code" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=I+am+an+Engineer;I+am+BiteRight's+Founder;I+am+a+Teacher;I+ship+code" alt="typing-svg" />
 </p>
+
 
 ---
 
 ### 🍽️ the origin story
+ 
+I was tired of nutrition apps that need me to log every ingredient. And the same biriyani has various calorie entries. I had no clue what's going on, I'm building **BiteRight** to make my life easier. It looks at your food, learns from you, and nudges you toward simple healthy changes, no measuring required.
 
-I got tired of nutrition apps that want me to log each ingredient. And the ones that do not understand the diversity of Indian home cooking. So I'm building it. It learns your food habits, you correct it once and it remembers. And suggests what you can do to make simple healthy changes to your food habits. This is **BiteRight**, an app that looks at your food, figures out what's actually on the plate, and helps your reach your health goals without the hassle of measuring and itemizing everything.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/rJqvJlA9GjrGDrjTIP/giphy.gif" width="360" alt="chef cooking gif" />
-</p>
-
-Before this, I was building agentic RAG systems and computer-use agents at Wells Fargo. Basically I argued with an LLM about whether it actually did the thing it said it did.
+Before this, I was building agentic RAG systems and computer-use agents at Wells Fargo.
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/pDIocLXUntUc8SvW7J/giphy.gif" width="360" alt="chef cooking gif" />
+</p> -->
 
 ---
 
@@ -37,10 +36,18 @@ Before this, I was building agentic RAG systems and computer-use agents at Wells
 
 ---
 
+### 📚 people I'm following
+ 
+- [Isaac Flath](https://github.com/Isaac-Flath) — I learn to write better by reading his blogs.
+- [Shreyas Doshi](https://shreyasdoshi.com) — Raw takes about mindset and psychology that challenge my ideas.
+- [James Murdza](https://github.com/jamesmurdza) — On building communities and being authentic with your work.
+
+---
+
 ### 🎯 (fun) facts
 
-- I write faster and better by hand than I do prompting an AI to write it for me
-- I believe in people more when they are unpolished
+- I write faster and better by hand than I do using AI
+- I believe in the power of the collective
 
 ---
 
@@ -60,8 +67,6 @@ Before this, I was building agentic RAG systems and computer-use agents at Wells
   <a href="https://github.com/madhoolikab">GitHub</a> •
   <a href="mailto:madhoolikab@gmail.com">Email</a>
 </p>
-
-<p align="center"><I>I love yapping.</i></p>
 
 <!--
 **madhoolikab/madhoolikab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
