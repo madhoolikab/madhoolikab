@@ -61,7 +61,7 @@ Before this, I was building agentic RAG systems and computer-use agents at Wells
   <a href="mailto:madhoolikab@gmail.com">Email</a>
 </p>
 
-<p align="center"><I>I love yapping. See you soon!</i></p>
+<p align="center"><I>I love yapping.</i></p>
 
 <!--
 **madhoolikab/madhoolikab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
