@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <h1 align="center">Hey, I'm Madhoolika 🍛🤖</h1>
 <h3 align="center">I teach computers that boiled egg white is different from a full egg.</h3>
