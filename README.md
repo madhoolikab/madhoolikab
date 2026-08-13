@@ -38,9 +38,9 @@ Before this, I was building agentic RAG systems and computer-use agents at Wells
 
 ### 📚 people I'm following
  
-- [Isaac Flath](https://github.com/Isaac-Flath) — I learn to write better by reading his blogs.
-- [Shreyas Doshi](https://shreyasdoshi.com) — Raw takes about mindset and psychology that challenge my ideas.
-- [James Murdza](https://github.com/jamesmurdza) — On building communities and being authentic with your work.
+- [Isaac Flath](https://github.com/Isaac-Flath): I learn to write better by reading his blogs
+- [Shreyas Doshi](https://shreyasdoshi.com): Raw takes about mindset and psychology that challenge my ideas
+- [James Murdza](https://github.com/jamesmurdza): On building communities and being authentic with work
 
 ---
 
