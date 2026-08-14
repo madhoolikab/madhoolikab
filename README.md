@@ -62,7 +62,7 @@ Before this, I was building agentic RAG systems and computer-use agents at Wells
 ### 📫 find me
 
 <p align="center">
-  <a href="https://madhoolika.com">Portfolio</a> •
+  <a href="https://madhoolikab.lovable.app">Portfolio</a> •
   <a href="https://linkedin.com/in/madhoolika">LinkedIn</a> •
   <a href="https://github.com/madhoolikab">GitHub</a> •
   <a href="mailto:madhoolikab@gmail.com">Email</a>
