@@ -3,7 +3,7 @@
 <h1 align="center">✨ Hey, This is Madhoolika ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=I+am+an+Engineer;I+am+BiteRight's+Founder;I+am+a+Teacher;I+ship+code" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=I+am+an+Engineer;Building+BiteRight;Enjoy+Teaching;and..+I+ship+code." alt="typing-svg" />
 </p>
 
 
