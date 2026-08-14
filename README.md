@@ -9,7 +9,7 @@
 
 ---
 
-### Current work
+### current work
  
 I was tired of nutrition apps that need me to log every ingredient. And the same biriyani has various calorie entries. I had no clue what's going on, I'm building **BiteRight** to make my life easier. It looks at your food, learns from you, and nudges you toward simple healthy changes, no measuring required.
 
