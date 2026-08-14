@@ -9,7 +9,7 @@
 
 ---
 
-### 🍽️ the origin story
+### Current work
  
 I was tired of nutrition apps that need me to log every ingredient. And the same biriyani has various calorie entries. I had no clue what's going on, I'm building **BiteRight** to make my life easier. It looks at your food, learns from you, and nudges you toward simple healthy changes, no measuring required.
 
@@ -20,7 +20,7 @@ Before this, I was building agentic RAG systems and computer-use agents at Wells
 
 ---
 
-### 🔬 what I'm currently obsessed with
+### 🔬 heavily invested in
 
 **AI evals.** Does this thing actually work for a real user, or does it just look good in a demo? I care about this enough that I gave [a whole talk on it](https://www.youtube.com/watch?v=50x2TUGHzws), built [slides](https://docs.google.com/presentation/d/1Ilpu2NPcOrH-TJh0vkoMSfqoMdHt1BUVpd-_TY8t0LU/edit) to go with it, and open-sourced the [repo](https://github.com/madhoolikab/practical_ai_evals) to practice it yourself.
 
@@ -40,7 +40,7 @@ Before this, I was building agentic RAG systems and computer-use agents at Wells
  
 - [Isaac Flath](https://github.com/Isaac-Flath): I learn to write better by reading his blogs
 - [Shreyas Doshi](https://shreyasdoshi.com): Raw takes about mindset and psychology that challenge my ideas
-- [James Murdza](https://github.com/jamesmurdza): On building communities and being authentic with work
+- [James Murdza](https://github.com/jamesmurdza): On building communities and being authentic
 
 ---
 
